@@ -57,7 +57,7 @@ cacheSolve <- function(x, ...) {
 # > b<-makeCacheMatrix(a)
 
 #### Execute cacheSolve for 1st time ####
-# > cacheSolve(b)
+# > cacheSolve(b)    <--- The function computes the inverse of Matrix
 # [,1] [,2]
 # [1,]   -7  6.5
 # [2,]    6 -5.5
